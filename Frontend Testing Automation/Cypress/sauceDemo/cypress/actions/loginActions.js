@@ -1,8 +1,12 @@
 import loginPage from "../pages/loginPage";
 
 class loginActions {
-    standardUserLogin(user) {
+    userLogin(user) {
         loginPage.login(user.userName, user.password);
+    }
+    userLogout() {
+        loginPage.getBurgerMenu().click();
+        loginPage.getLogoutButton().click();
     }
 }
 
