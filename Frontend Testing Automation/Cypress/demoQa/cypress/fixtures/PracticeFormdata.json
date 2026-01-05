@@ -1,0 +1,14 @@
+{
+    "validData": {
+        "firstName": "kshitiz",
+        "lastName": "Rajan",
+        "email": "Kshitiz@email.com",
+        "mobile": "9876543210",
+        "dob": "05 jan 2026",
+        "subject": "computer science",
+        "currentAddress": "Bhaktapur",
+        "fileName":"file.jpg",
+        "state": "NCR",
+        "city": "Delhi"
+    }
+}

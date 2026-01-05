@@ -1,3 +1,4 @@
+import 'cypress-file-upload';
 import practiceFormPage from "../pages/practiceFormPage";
 
 Cypress.Commands.add('blank submit', () => {
