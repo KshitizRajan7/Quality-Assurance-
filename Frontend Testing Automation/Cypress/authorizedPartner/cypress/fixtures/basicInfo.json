@@ -1,3 +1,9 @@
 {
-    
+    "validData": {
+        "firstName": "Kshitiz",
+        "lastName": "Rajan",
+        "email": "kshitiz@email.com",
+        "phoneNumber": "123345569",
+        "password": "Password@123"
+    }
 }
